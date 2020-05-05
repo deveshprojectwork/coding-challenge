@@ -1,4 +1,4 @@
-# Crewmeister coding challenge 
+# Crewmeister coding challenge test
 
 Hello and thanks in participating in the crewmeister coding challenge. This
 coding exercise will help us get a better feeling about your coding process.
